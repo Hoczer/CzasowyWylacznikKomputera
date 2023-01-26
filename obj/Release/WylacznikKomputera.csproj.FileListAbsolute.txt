@@ -1,0 +1,9 @@
+D:\Programy Visual C#\WylacznikKomputera\WylacznikKomputera\bin\Release\WylacznikKomputera.exe.config
+D:\Programy Visual C#\WylacznikKomputera\WylacznikKomputera\bin\Release\WylacznikKomputera.exe
+D:\Programy Visual C#\WylacznikKomputera\WylacznikKomputera\bin\Release\WylacznikKomputera.pdb
+D:\Programy Visual C#\WylacznikKomputera\WylacznikKomputera\obj\Release\WylacznikKomputera.Form1.resources
+D:\Programy Visual C#\WylacznikKomputera\WylacznikKomputera\obj\Release\WylacznikKomputera.Properties.Resources.resources
+D:\Programy Visual C#\WylacznikKomputera\WylacznikKomputera\obj\Release\WylacznikKomputera.csproj.GenerateResource.cache
+D:\Programy Visual C#\WylacznikKomputera\WylacznikKomputera\obj\Release\WylacznikKomputera.csproj.CoreCompileInputs.cache
+D:\Programy Visual C#\WylacznikKomputera\WylacznikKomputera\obj\Release\WylacznikKomputera.exe
+D:\Programy Visual C#\WylacznikKomputera\WylacznikKomputera\obj\Release\WylacznikKomputera.pdb
